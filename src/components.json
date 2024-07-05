@@ -1,0 +1,13 @@
+{
+    "components" : {
+        "Button": {
+            "variant": "primary",
+            "size": "medium"
+        },
+        "Input" : {
+            "type": "text",
+            "placeholder" : "Enter text"
+            
+        }
+    }
+}
